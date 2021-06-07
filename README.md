@@ -1,3 +1,3 @@
-# code20210318-logeshwarravichandran
+# BMI Calculator
 
-Run BMI_Driver.py file, because it's the driver file.
+Run BMI_Driver.py file to see the working of BMI Calculator
